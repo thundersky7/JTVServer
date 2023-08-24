@@ -1,7 +1,7 @@
 # JTV self server
 
 ### Required Files
-1. Termux V0.112 (Install on Fire TV)
+1. Termux V0.112 (Install on Fire TV) (F-Droid Version)
 ```
 https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-112-release/
 ```
